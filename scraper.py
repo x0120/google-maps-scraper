@@ -100,7 +100,7 @@ def main():
     start_time = time.time()
     # Extract data and save to Excel
     all_results_data = get_info(driver,search_query)
-    print(f" number of results: {len(all_results_data)}")
+    print(f"number of results: {len(all_results_data)}")
 
     # Create a DataFrame
     df = pd.DataFrame(all_results_data)
@@ -114,7 +114,7 @@ def main():
     # Calculate and print the total runtime
     total_time = end_time - start_time
     total_in_minuts = round(total_time/60,2)
-    print(f"Total run time: {total_in_minuts} seconds")
+    print(f"Total run time: {total_in_minuts} minutes")
     # Close the driver
     driver.quit()
 
