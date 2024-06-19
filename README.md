@@ -50,7 +50,7 @@ hotels in Muscat
 Then :
 1. chromedriver.exe will run and start to search for ```hotels in Muscat```
 2. Then you have to <b>Manully scroll down to load more results.</b>
-3. The program will go over all results and save them in Excel file named ```hotels in Muscat.xlsx```
+3. The program will go over all results and save them in Excel file named ```hotels in Muscat.xlsx``` in the same directory you run ```scraper.py```
 
 ## Notes
 - You will have <b>50</b> seconds to load all results as you can see here in the code. But you can modifiy it as needed
