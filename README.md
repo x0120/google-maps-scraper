@@ -1,4 +1,4 @@
-# Google-maps-scraper
+# Google maps scraper
 This project uses ```Selenium``` to scrape information about(hotels, shops, restruants etc.) from Google Maps. The data includes the name, google maps location, phone number, rating, and number of reviews for each result. The collected data is then saved to an Excel file.
 
 ## Prerequisites
@@ -17,8 +17,8 @@ To run this script, you'll need the following:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/x0120/Google-map-scraper.git
-   cd Google-map-scraper
+   git clone https://github.com/x0120/google-maps-scraper.git
+   cd google-maps-scraper
 2. **Install the required Python packages:**
 
     ```
