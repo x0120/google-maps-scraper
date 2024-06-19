@@ -1,4 +1,4 @@
-# Google maps scraper
+# google maps scraper
 This project uses ```Selenium``` to scrape information about(hotels, shops, restruants etc.) from Google Maps. The data includes the name, google maps location, phone number, rating, and number of reviews for each result. The collected data is then saved to an Excel file.
 
 ## Prerequisites
